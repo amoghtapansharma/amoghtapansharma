@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amoghtapansharma
 - 👀 I’m interested in Electronics and CS
-- 🌱 I’m currently learning Electronics and C
+- 🌱 I’m currently learning Electronics (Control and embedded systems) and C for embedded systems
 - 💞️ I’m looking towards learning new and interesting things.
 - 📫 How to reach me? I am right here iamamogh2004@gmail.com
 - ⚡ Fun fact: I am from Uttrakhand (devbhoomi) land of gods
